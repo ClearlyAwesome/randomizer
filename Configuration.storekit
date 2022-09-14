@@ -1,0 +1,33 @@
+{
+  "identifier" : "B062A9FB",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "AABB55E1",
+      "localizations" : [
+        {
+          "description" : "Remove Ads for $5.99",
+          "displayName" : "No More Ads",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.Cleary.ads",
+      "referenceName" : "No Ads",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}

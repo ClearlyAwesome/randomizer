@@ -1,0 +1,11 @@
+${PODS_ROOT}/Target Support Files/Pods-randomGenerator/Pods-randomGenerator-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Eureka/Eureka.framework
+${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework
+${BUILT_PRODUCTS_DIR}/ImageRow/ImageRow.framework
+${BUILT_PRODUCTS_DIR}/Locksmith/Locksmith.framework
+${BUILT_PRODUCTS_DIR}/PostalAddressRow/PostalAddressRow.framework
+${BUILT_PRODUCTS_DIR}/PromisesObjC/FBLPromises.framework
+${BUILT_PRODUCTS_DIR}/SplitRow/SplitRow.framework
+${BUILT_PRODUCTS_DIR}/SwiftKeychainWrapper/SwiftKeychainWrapper.framework
+${BUILT_PRODUCTS_DIR}/ViewRow/ViewRow.framework
+${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework

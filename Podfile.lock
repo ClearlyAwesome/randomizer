@@ -1,0 +1,104 @@
+PODS:
+  - Eureka (5.3.4)
+  - Google-Mobile-Ads-SDK (8.13.0):
+    - GoogleAppMeasurement (< 9.0, >= 7.0)
+    - GoogleUserMessagingPlatform (>= 1.1)
+  - GoogleAppMeasurement (8.10.0):
+    - GoogleAppMeasurement/AdIdSupport (= 8.10.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.6)
+    - GoogleUtilities/MethodSwizzler (~> 7.6)
+    - GoogleUtilities/Network (~> 7.6)
+    - "GoogleUtilities/NSData+zlib (~> 7.6)"
+    - nanopb (~> 2.30908.0)
+  - GoogleAppMeasurement/AdIdSupport (8.10.0):
+    - GoogleAppMeasurement/WithoutAdIdSupport (= 8.10.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.6)
+    - GoogleUtilities/MethodSwizzler (~> 7.6)
+    - GoogleUtilities/Network (~> 7.6)
+    - "GoogleUtilities/NSData+zlib (~> 7.6)"
+    - nanopb (~> 2.30908.0)
+  - GoogleAppMeasurement/WithoutAdIdSupport (8.10.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.6)
+    - GoogleUtilities/MethodSwizzler (~> 7.6)
+    - GoogleUtilities/Network (~> 7.6)
+    - "GoogleUtilities/NSData+zlib (~> 7.6)"
+    - nanopb (~> 2.30908.0)
+  - GoogleUserMessagingPlatform (2.0.0)
+  - GoogleUtilities/AppDelegateSwizzler (7.6.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (7.6.0):
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Logger (7.6.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (7.6.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (7.6.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (7.6.0)"
+  - GoogleUtilities/Reachability (7.6.0):
+    - GoogleUtilities/Logger
+  - ImageRow (4.0.0):
+    - Eureka (~> 5.0)
+  - Locksmith (4.0.0)
+  - nanopb (2.30908.0):
+    - nanopb/decode (= 2.30908.0)
+    - nanopb/encode (= 2.30908.0)
+  - nanopb/decode (2.30908.0)
+  - nanopb/encode (2.30908.0)
+  - PostalAddressRow (2.2.0):
+    - Eureka (~> 5.0)
+  - PromisesObjC (2.0.0)
+  - SplitRow (2.2.0):
+    - Eureka (~> 5.3.3)
+  - SwiftKeychainWrapper (4.0.1)
+  - ViewRow (0.8):
+    - Eureka (>= 5.0.0)
+
+DEPENDENCIES:
+  - Eureka
+  - Google-Mobile-Ads-SDK
+  - ImageRow (~> 4.0)
+  - Locksmith
+  - PostalAddressRow
+  - SplitRow
+  - SwiftKeychainWrapper
+  - ViewRow
+
+SPEC REPOS:
+  trunk:
+    - Eureka
+    - Google-Mobile-Ads-SDK
+    - GoogleAppMeasurement
+    - GoogleUserMessagingPlatform
+    - GoogleUtilities
+    - ImageRow
+    - Locksmith
+    - nanopb
+    - PostalAddressRow
+    - PromisesObjC
+    - SplitRow
+    - SwiftKeychainWrapper
+    - ViewRow
+
+SPEC CHECKSUMS:
+  Eureka: 60cf058f86a8fb3ed26165ba5292b9850361b0a6
+  Google-Mobile-Ads-SDK: 05e5d68bb42a61b2e5bef336a52789785605aa22
+  GoogleAppMeasurement: a3311dbcf3ea651e5a070fe8559b57c174ada081
+  GoogleUserMessagingPlatform: ab890ce5f6620f293a21b6bdd82e416a2c73aeca
+  GoogleUtilities: 684ee790a24f73ebb2d1d966e9711c203f2a4237
+  ImageRow: e65b2e1a33f89062bf2a553a2aad61d975eb7428
+  Locksmith: e9bebbaaa4cee3c511bc358a44f843c3fe00e21f
+  nanopb: a0ba3315591a9ae0a16a309ee504766e90db0c96
+  PostalAddressRow: 00b1ee182a0fcb741f5f7ea4a91b6fd59de9083d
+  PromisesObjC: 68159ce6952d93e17b2dfe273b8c40907db5ba58
+  SplitRow: 1911d2bd0f34e6ac93d83cc741730505a91c4d04
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+  ViewRow: 8da541e9c019f3be63f4e28f311a62cac2045ecf
+
+PODFILE CHECKSUM: 95d5c9a158d31bf437380048d73e4431743dea53
+
+COCOAPODS: 1.11.2
